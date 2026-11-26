@@ -1,0 +1,4 @@
+/ingress.bpf.o
+/pass.bpf.o
+/runs/
+__pycache__/
